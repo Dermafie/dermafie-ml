@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Basal Cell"
+    },
+    {
+        "id": 2,
+        "name": "Melanoma"
+    },
+    {
+        "id": 3,
+        "name": "Rosacea"
+    },
+    {
+        "id": 4,
+        "name": "Blackheads"
+    },
+    {
+        "id": 5,
+        "name": "Dark Spot"
+    },
+    {
+        "id": 6,
+        "name": "Nodules"
+    },
+    {
+        "id": 7,
+        "name": "Papules"
+    },
+    {
+        "id": 8,
+        "name": "Pustules"
+    },
+    {
+        "id": 9,
+        "name": "Whiteheads"
+    }
+]
