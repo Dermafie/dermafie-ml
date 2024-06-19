@@ -30,6 +30,11 @@
 - **Classification Model**: Direktori ini berisi notebook yang dapat dijalankan di Google Colab untuk membangun dan melatih model klasifikasi.
 - **Object Detection Model**: Direktori ini terdapat model object detection yang dibangun untuk mendetek 9 kelas penyakit
 
+## Architectures
+Each task of the model used the following architecture:
+* Classification used InceptionV3 architecture pretrained with imagenet
+* Object Detection used Retinanet model with ResNet-50 as the backbone and FPN (Feature Pyramid Network) for the decoder
+
 ## Prerequisites
 - Python version 3.10 or later
 - The Python packages listed in the requirements.txt
