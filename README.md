@@ -27,8 +27,8 @@
 - The object detection model is trained to be able to detect **nine classes** of skin conditions, which are rosacea, basal cell, melanoma, dark spots, blackheads, nodules, pustules, papules, and whiteheads. as of tensorflowjs version 4.20.0, there are some Unsupported Ops in the model and currently TensorFlow.js only supports a limited set of TensorFlow Ops. But the TFLite model can be used instead.
 
 ## Folder Structure
-- **Classification Model**: Direktori ini berisi notebook yang dapat dijalankan di Google Colab untuk membangun dan melatih model klasifikasi.
-- **Object Detection Model**: Direktori ini terdapat model object detection yang dibangun untuk mendetek 9 kelas penyakit
+- **Classification Model**: This directory contains notebooks that can be run on Google Colab to build and train classification models.
+- **Object Detection Model**: This directory contains notebooks that can be run on Google Colab to build the object detection model that was built to detect 9 disease classes
 
 ## Architectures
 Each task of the model used the following architecture:
